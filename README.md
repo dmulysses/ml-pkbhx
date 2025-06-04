@@ -34,12 +34,6 @@ This research predicts hydrogen bond acceptance using machine learning (ML) mode
     * Evaluation: Hold-out cross-validation (90/10 split), RMSE, MAE, $R^2$.
 4.  **Model Interpretation:** SHAP analysis for NBO descriptor contributions in the MLP model.
 
-## Data and Code Availability
-
-The dataset, Python scripts, and detailed results are at:
-* **Zenodo:** [https://doi.org/10.5281/zenodo.14364022](https://doi.org/10.5281/zenodo.14364022)
-Supporting Information includes SMILES, $E_n^{(2)}$ values, $pK_{HBX}$ data, and geometries.
-
 ## Software and Libraries Used
 
 * **Cheminformatics:** RDKit (2023.09.1)
