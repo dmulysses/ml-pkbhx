@@ -5,7 +5,7 @@
 **DOI:** [Link to be added upon publication]
 
 **Associated Data & Code:**
-* **Zenodo:** [https://doi.org/10.5281/zenodo.14364022](https://doi.org/10.5281/zenodo.14364022)
+* **Zenodo:** [https://doi.org/10.5281/zenodo.15602205](https://doi.org/10.5281/zenodo.15602205)
 
 ---
 
@@ -15,7 +15,7 @@ This research predicts hydrogen bond acceptance using machine learning (ML) mode
 
 ## Key Findings
 
-* **Excelent Predictive Performance:** ML models, especially the Multi-layer Perceptron (MLP), accurately predicted $pK_{HBX}$ values (RMSE $0.290$, MAE $0.216$, $R^2$ $0.920$). Errors are < $0.4 \, \text{kcal mol}^{-1}$ in Gibbs free energy.
+* **Excellent Predictive Performance:** ML models, especially the Multi-layer Perceptron (MLP), accurately predicted $pK_{HBX}$ values (RMSE $0.290$, MAE $0.216$, $R^2$ $0.920$). Errors are < $0.4 \, \text{kcal mol}^{-1}$ in Gibbs free energy.
 * **NBO Descriptors Sufficiency:** Eight $\Delta E^{(2)}$ NBO-derived values were enough for robust models, unlike methods needing many descriptors.
 * **Chemical Interpretability:** NBO descriptors offer clear chemical meaning. SHAP analysis showed specific NBO interaction contributions.
 * **Methodology Efficiency:** The workflow combines efficient GFN2-xTB optimizations with DFT-level NBO analysis, suitable for large-scale use.
