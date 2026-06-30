@@ -47,3 +47,4 @@ This research predicts hydrogen bond acceptance using machine learning (ML) mode
 ## Citation
 
 Please cite:
+_J. Org. Chem._ 2025, 90, 28, 9776–9788
