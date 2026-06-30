@@ -2,7 +2,7 @@
 
 **Authors:** Diego Ulysses Melo, Leonardo Martins Carneiro, Mauricio Domingues Coutinho-Neto, Paula Homem-de-Mello, and Fernando Heering Bartoloni*
 
-**DOI:** [Link to be added upon publication]
+**DOI:** 10.1021/acs.joc.5c00724 [](https://pubs.acs.org/doi/10.1021/acs.joc.5c00724)
 
 **Associated Data & Code:**
 * **Zenodo:** [https://doi.org/10.5281/zenodo.15602205](https://doi.org/10.5281/zenodo.15602205)
