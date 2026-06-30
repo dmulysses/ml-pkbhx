@@ -5,7 +5,7 @@
 **DOI:** 10.1021/acs.joc.5c00724 
 
 
-**Full text:**[https://pubs.acs.org/doi/10.1021/acs.joc.5c00724](https://pubs.acs.org/doi/10.1021/acs.joc.5c00724)
+**Full text:** [https://pubs.acs.org/doi/10.1021/acs.joc.5c00724](https://pubs.acs.org/doi/10.1021/acs.joc.5c00724)
 
 **Associated Data & Code:**
 * **Zenodo:** [https://doi.org/10.5281/zenodo.15602205](https://doi.org/10.5281/zenodo.15602205)
